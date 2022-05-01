@@ -22,7 +22,7 @@ body {
    height: 100vh;
    background-color: var(--body-color);
 }
-/* Side bar */
+/* Side bamr */
 .sidebar li {
    display: flex;
    margin-top: 10px;
