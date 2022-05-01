@@ -112,3 +112,15 @@ header .image-text .header-text {
    height: 30px;
    width: 30px;
 }
+/* search bar */
+.sidebar .search-box {
+   background: var(--primary-color-light);
+}
+.search-box input {
+   height: 100%;
+   width: 100%;
+   border: none;
+   background-color: var(--primary-color-light);
+   outline: none;
+   border-radius: 6px;
+}
