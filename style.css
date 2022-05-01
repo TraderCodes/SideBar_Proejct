@@ -22,10 +22,10 @@ body {
    height: 100vh;
    background-color: var(--body-color);
 }
-/* Side bamr */
+/* Side bar */
 .sidebar li {
    display: flex;
-   margin-top: 10px;
+   margin-top: 20px;
    align-items: center;
    list-style: none;
    height: 50px;
